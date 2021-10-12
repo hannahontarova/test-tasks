@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+.user-form{
+    height: 100vh;
+}
+.display_finalForm{
+    display: none;
+}
